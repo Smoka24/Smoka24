@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-
-**Smoka24/Smoka24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Alicja and I'm a Silesian University of Technology Informatics student from Poland.
 
 - 🔭 I’m currently working on studies, High Flyers and POLSL Racing projects
 - 🌱 I’m currently learning everything I can
