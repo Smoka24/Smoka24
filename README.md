@@ -1,10 +1,7 @@
- 
-
 
 <h1>
-  ###Hi there
+  Hi! I'm Alicja
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  My name is Alicja and I'm a Silesian University of Technology Informatics student from Poland.
 </h1>
 
 <div id="badges">
@@ -16,7 +13,7 @@
   </a>
 </div>
 
-
+  ### My name is Alicja and I'm a Silesian University of Technology Informatics student from Poland.
 - 🔭 I’m currently working on studies and High Flyers projects
 - 🌱 I’m currently learning everything I can
 - 💬 Ask me about anything you want!
