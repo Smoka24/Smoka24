@@ -21,7 +21,11 @@
 - 💻 I'm working on many studies projects, mostly focusing on C#. You'll find them on GitHub!
 - 📚 Informatics is my main hobby, but I also have many more!
 
- ### 
+ ### ✏️ Projects I took part in
+- 🦆 BrainRot Game
+3D game on Unity Engine programmed in C# for "Computer Graphics" course of my studies. I act as a full-stack developer, making whole design, code, 3D models, 2D drawings and animations. Game is currently at last phase of development and it will work both on Windows and Android devices.
+
+
 
  ### 📫 How to reach me?
 - Discord: smoka24
