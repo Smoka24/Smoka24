@@ -29,7 +29,11 @@ WPF app made for "Database Systems and Applications" course in a group of 6 peop
 - 🤳🏻 Photo Management App: 
 Big 9-person project aiming to make an Instagram-like app with many functionalities that will work on both web, desktop and mobile devices. I'm developing an Android app in Java, still in progress.
 
-
+### 🔎 What am I interested in?
+- ⌨️ Proggramming, of course! I believe code gives us endless possibilities of expressing ourselves and making our lives better. I want to focus on C#, WPF and .NET technologies, but I may also use others. I always wanted to make indie games or work for game development company, and for that I use Unity.
+- 🚄 Trains. They are fast, they carry enormous amount of loads, they may be ecological and they are just beautiful.
+- 🛫 Aerospace engineering. Is there anything more majestic than A380 taking off at sunset? I've been interested in space rockets for so long time, I even run a thematic discord server!
+- 🌌 Astrophysics. I've been reading popular science books about that since I can remember and I still never get bored by it.
 
  ### 📫 How to reach me?
 - Discord: smoka24
