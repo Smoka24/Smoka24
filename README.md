@@ -42,3 +42,5 @@ Big 9-person project aiming to make an Instagram-like app with many functionalit
 
 ### :fire: My stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Smoka24&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoka24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
