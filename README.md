@@ -22,8 +22,12 @@
 - 📚 Informatics is my main hobby, but I also have many more!
 
  ### ✏️ Projects I took part in
-- 🦆 BrainRot Game
+- 🦆 BrainRot Game: 
 3D game on Unity Engine programmed in C# for "Computer Graphics" course of my studies. I act as a full-stack developer, making whole design, code, 3D models, 2D drawings and animations. Game is currently at last phase of development and it will work both on Windows and Android devices.
+- 📖 Library Manager: 
+WPF app made for "Database Systems and Applications" course in a group of 6 people. I am responsible for custom controls and WPF windows. Currently still in development.
+- 🤳🏻 Photo Management App: 
+Big 9-person project aiming to make an Instagram-like app with many functionalities that will work on both web, desktop and mobile devices. I'm developing an Android app in Java, still in progress.
 
 
 
