@@ -31,6 +31,7 @@ Big 9-person project aiming to make an Instagram-like app with many functionalit
 
 ### 🔎 What am I interested in?
 - ⌨️ Proggramming, of course! I believe code gives us endless possibilities of expressing ourselves and making our lives better. I want to focus on C#, WPF and .NET technologies, but I may also use others. I always wanted to make indie games or work for game development company, and for that I use Unity.
+- 🎨 Computer graphics. I've made a lot of drawings, 3D models and animations as small hobby projects. You can see them on my yt channel.
 - 🚄 Trains. They are fast, they carry enormous amount of loads, they may be ecological and they are just beautiful.
 - 🛫 Aerospace engineering. Is there anything more majestic than A380 taking off at sunset? I've been interested in space rockets for so long time, I even run a thematic discord server!
 - 🌌 Astrophysics. I've been reading popular science books about that since I can remember and I still never get bored by it.
@@ -42,5 +43,19 @@ Big 9-person project aiming to make an Instagram-like app with many functionalit
 
 ### :fire: My stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Smoka24&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoka24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" **alt="AndroidStudio" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
+</div>
 
