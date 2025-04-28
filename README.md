@@ -11,13 +11,13 @@
   <a href="(https://www.youtube.com/@Smoka24)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+    <a href="https://linktr.ee/highflyers.polsl?fbclid=PAZXh0bgNhZW0CMTEAAaeTe_z2CsCxWXDfOFapE7AFWgVtB9R1pcmm7u8NW5DBJ-TVnKidqcaveZyGVw_aem_5blP7AH8xevmc-a00-QKtg">
+    <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
-  ### My name is Alicja and I'm a Silesian University of Technology Informatics student from Poland.
-- 🔭 I’m currently working on studies and High Flyers projects
-- 🌱 I’m currently learning everything I can
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: Discord: smoka24
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Is there any?
+  ### I'm a Silesian University of Technology Informatics student from Poland.
+- ✈️ I belong to Scientific Academic Association "High Flyers" 
 
+
+💻- 📫 How to reach me: Discord: smoka24
