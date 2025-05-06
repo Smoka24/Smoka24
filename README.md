@@ -24,6 +24,8 @@
  ### ✏️ Projects I took part in
 - 🦆 BrainRot Game: 
 3D game on Unity Engine programmed in C# for "Computer Graphics" course of my studies. I act as a full-stack developer, making whole design, code, 3D models, 2D drawings and animations. Game is currently at last phase of development and it will work both on Windows and Android devices.
+- 🐲 Platformer Game:
+2D game on Unity Engine programmed in C# for "Computer Programming" course of my studies. It's a bit older project than the other ones. I also made every part of this game, including 2D drawings.
 - 📖 Library Manager: 
 WPF app made for "Database Systems and Applications" course in a group of 6 people. I am responsible for custom controls and WPF windows. Currently still in development.
 - 🤳🏻 Photo Management App: 
